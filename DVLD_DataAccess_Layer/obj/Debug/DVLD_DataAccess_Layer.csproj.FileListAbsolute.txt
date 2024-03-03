@@ -1,0 +1,6 @@
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\DVLDProject\DVLD_DataAccess_Layer\bin\Debug\DVLD_DataAccess_Layer.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\DVLDProject\DVLD_DataAccess_Layer\bin\Debug\DVLD_DataAccess_Layer.pdb
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\DVLDProject\DVLD_DataAccess_Layer\obj\Debug\DVLD_DataAccess_Layer.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\DVLDProject\DVLD_DataAccess_Layer\obj\Debug\DVLD_DataAccess_Layer.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\DVLDProject\DVLD_DataAccess_Layer\obj\Debug\DVLD_DataAccess_Layer.dll
+C:\Users\omerm\Desktop\OMS\PROGRAMING\C# Language\Programming Advices\DVLDProject\DVLD_DataAccess_Layer\obj\Debug\DVLD_DataAccess_Layer.pdb
